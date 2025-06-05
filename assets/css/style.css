@@ -1,7 +1,7 @@
 /* 🔥 DIVIZION M.A.D. Custom Styles */
 
 .page-header {
-  background-image: url('../header.png') !important;
+  background-image: url('../../header.png') !important;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
