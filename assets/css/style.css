@@ -1,0 +1,43 @@
+/* 🔥 DIVIZION M.A.D. Custom Styles */
+
+.page-header {
+  background-image: url('../header.png') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.5); /* dark overlay */
+  color: #ffffff;
+}
+
+.project-name {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #33cc33;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+}
+
+.project-tagline {
+  font-size: 1.25rem;
+  font-style: italic;
+  color: #dddddd;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-color: #0d0d0d;
+  color: #eeeeee;
+}
+
+a {
+  color: #4caf50;
+}
+
+h2, h3 {
+  color: #33cc33;
+}
