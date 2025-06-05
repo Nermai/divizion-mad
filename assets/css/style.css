@@ -2,17 +2,17 @@
 
 .page-header {
   background-image: url('../../header.png') !important;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 320px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.5);
-  color: #ffffff;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  min-height: 340px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+  box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5) !important;
+  color: #ffffff !important;
 }
 .project-name {
   font-size: 3rem;
@@ -20,7 +20,9 @@
   color: #33cc33;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
 }
-
+.btn {
+  display: none !important;
+}
 .project-tagline {
   font-size: 1.25rem;
   font-style: italic;
