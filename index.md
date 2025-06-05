@@ -3,7 +3,7 @@ layout: default
 title: DIVIZION M.A.D.
 ---
 
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="/style.css">
 
 # 🪖 DIVIZION M.A.D.
 **Modern. Adaptive. Deadly.**  
