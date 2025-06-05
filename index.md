@@ -46,6 +46,19 @@ Think you’ve got what it takes?
 - **Discord**: `@DivizionMAD`
 - **Email**: `command@divizionmad.com`
 
+- <style>
+body {
+  background-color: #111 !important;
+  color: #eee !important;
+}
+h1, h2, h3, h4, h5 {
+  color: #33cc33 !important;
+}
+a {
+  color: #66ff66 !important;
+}
+</style>
+
 ---
 
 _© 2025 DIVIZION M.A.D. – All rights reserved_
