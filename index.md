@@ -3,6 +3,8 @@ layout: default
 title: DIVIZION M.A.D.
 ---
 
+<link rel="stylesheet" href="assets/css/style.css">
+
 # 🪖 DIVIZION M.A.D.
 **Modern. Adaptive. Deadly.**  
 _A hardcore Arma 3 MILSIM unit._
